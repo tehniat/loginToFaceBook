@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "120383640616",
+    "firebase_url": "https://tehniatmirza-8c759.firebaseio.com",
+    "project_id": "tehniatmirza-8c759",
+    "storage_bucket": "tehniatmirza-8c759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120383640616:android:7c5ebbcae9d4b9f11d111d",
+        "android_client_info": {
+          "package_name": "com.tm.login4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120383640616-gbb3es3qjc7jdgf7v6vveh68pk2hjc40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy9XnXtc6XMA1QM8CNl9k9asHNhzSHUhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120383640616-gbb3es3qjc7jdgf7v6vveh68pk2hjc40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
